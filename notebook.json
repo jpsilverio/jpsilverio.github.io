@@ -1,0 +1,28 @@
+{
+  "keys": {
+    "command": {
+      "bind": {
+        "ctrl-shift-r": "jupyter-notebook:restart-kernel-and-run-all-cells",
+        "ctrl-up": "jupyter-notebook:move-cell-up",
+        "shift-r": "jupyter-notebook:restart-kernel-and-clear-output",
+        "ctrl-down": "jupyter-notebook:move-cell-down",
+        "r, r": "jupyter-notebook:restart-kernel",
+        "r,r": "jupyter-notebook:restart-kernel",
+        "ctrl-shift-up": "jupyter-notebook:run-all-cells-above",
+        "ctrl-shift-down": "jupyter-notebook:run-all-cells-below",
+        "ctrl-a-a": "jupyter-notebook:clear-all-cells-output",
+        "ctrl-a, a": "jupyter-notebook:clear-all-cells-output",
+        "ctrl-a ctrl-a": "jupyter-notebook:clear-all-cells-output",
+        "c, c": "jupyter-notebook:clear-all-cells-output",
+        "c, a": "jupyter-notebook:clear-all-cells-output",
+        "c,c": "jupyter-notebook:clear-all-cells-output"
+      },
+      "unbind": [
+        "c"
+      ]
+    }
+  },
+  "load_extensions": {
+    "jupyter-js-widgets/extension": true
+  }
+}
