@@ -15,7 +15,8 @@
         "ctrl-a ctrl-a": "jupyter-notebook:clear-all-cells-output",
         "c, c": "jupyter-notebook:clear-all-cells-output",
         "c, a": "jupyter-notebook:clear-all-cells-output",
-        "c,c": "jupyter-notebook:clear-all-cells-output"
+        "c,c": "jupyter-notebook:clear-all-cells-output",
+        "shift-c": "jupyter-notebook:clear-cell-output"
       },
       "unbind": [
         "c"
