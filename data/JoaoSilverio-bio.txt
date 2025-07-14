@@ -1,9 +1,1 @@
-João Silvério is a Researcher and the head of the Interactive
-Skill Learning group at the German Aerospace Center (DLR) in
-Munich. He received a PhD in Robotics from the University of Genoa
-and the Italian Institute of Technology (IIT), Genoa, Italy, in 2017.
-From 2019 to 2022 he was a Postdoctoral Researcher at the Idiap
-Research Institute, Martigny, Switzerland. From 2017 to 2019 
-he was a Postdoctoral Research at IIT. He is interested in machine
-learning for robotics, particularly control, imitation and reinforcement
-learning.
+João Silvério is a senior researcher and group leader at the German Aerospace Center (DLR) in Munich, where he has led the Interactive Skill Learning group since 2022. He received a PhD in Robotics from the Italian Institute of Technology (IIT), Genoa, in 2017. From 2017 to 2019, he was a postdoctoral researcher at IIT, and from 2019 to 2022, he held a postdoctoral position at the Idiap Research Institute in Martigny, Switzerland. His research focuses on machine learning for robotics, with particular interest in learning for control, imitation learning, and reinforcement learning.
